@@ -75,14 +75,14 @@
     .div1 {
         display: flexbox;
         width: 80%;
-        background-color: black;
+        background-color: lightblue;
         padding: 20px;
         margin-top: 10px;
         margin-left: 10px;
     }
     .flex-container {
         display: flexbox;
-        background-color: black;
+        background-color: burlywood;
         padding-left: 20px;
     }
     .flex-container>button {
